@@ -1,0 +1,21 @@
+common:
+  mcu_stm32f0:
+    includes:
+      cmsis:
+      - Device/ST/STM32F0xx/Include
+  mcu_stm32f1:
+    includes:
+      cmsis:
+      - Device/ST/STM32F1xx/Include
+  mcu_stm32f2:
+    includes:
+      cmsis:
+      - Device/ST/STM32F2xx/Include
+  mcu_stm32f4:
+    includes:
+      cmsis:
+      - Device/ST/STM32F4xx/Include
+  mcu_stm32f7:
+    includes:
+      cmsis:
+      - Device/ST/STM32F7xx/Include

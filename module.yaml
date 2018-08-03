@@ -1,0 +1,3 @@
+libraries:
+    feCMSIS:
+      - records/{vendor}/Common.yaml
