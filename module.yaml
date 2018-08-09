@@ -1,3 +1,11 @@
-libraries:
-    feCMSIS:
-      - records/{vendor}/Common.yaml
+name: feCMSIS
+type: src
+files:
+    includes:
+      cmsis:
+      - Include
+      vendor:
+      - Device/${vendor}/${chip_series}/Include
+properties:
+    vendor: ST
+    chip_series: STM32F4xx
