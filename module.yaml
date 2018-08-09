@@ -2,7 +2,7 @@ name: feCMSIS
 type: src
 files:
     includes:
-      cmsis:
+      CMSIS:
       - Include
       vendor:
       - Device/${vendor}/${chip_series}/Include
