@@ -6,6 +6,23 @@ files:
       - Include
       vendor:
       - Device/${vendor}/${chip_series}/Include
+portable:
+    port:
+    - Device/${vendor}/${chip_series}/Source/Templates/system_${chip_series#lower}.c
+tool_specific:
+  gcc_arm:
+    portable:
+        port:
+        - Device/${vendor}/${chip_series}/Source/Templates/gcc/${start_up}
+  armcc:
+    portable:
+        port:
+        - Device/${vendor}/${chip_series}/Source/Templates/arm/${start_up}
+  iar:
+    portable:
+        port:
+        - Device/${vendor}/${chip_series}/Source/Templates/arm/${iar}
 properties:
     vendor: ST
     chip_series: STM32F4xx
+    start_up: startup_xxx.s
