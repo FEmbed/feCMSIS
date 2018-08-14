@@ -1,0 +1,505 @@
+
+ ********************************************************************************************************
+ *
+ *  CMSIS-SVD SVD Consistency Checker / Header File Generator V2.87k 
+ *  Copyright (C) 2010 - 2015 ARM Ltd and ARM Germany GmbH. All rights reserved.
+ *
+ *  CMSIS SVDConv Log File
+ *
+ *  Date: 19. September 2017
+ *
+ *  Note: Generated with CMSIS SVDConv V2.87k  on Tuesday, 19.09.2017 13:40:26
+ *
+ *        from CMSIS SVD File 'STM32F7x2_v1r0.svd',
+ *        created on Tuesday, 24.01.2017 00:06:14, last modified on Tuesday, 24.01.2017 00:06:14
+ *
+ ********************************************************************************************************
+
+
+Options: "F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd" --generate=sfr -o "F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD" -n "STM32F7x2_v1r0" -b "F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.errlog"  
+Reading file: "F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd"
+
+Decoding using XML SVD Schema V1.1
+
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(639) : error [Level: <field>]
+Expression parse error: 'OC2M[3]'
+Data:      [TEXT] OC2M[3] 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(646) : error [Level: <field>]
+Expression parse error: 'OC1M[3]'
+Data:      [TEXT] OC1M[3] 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(784) : error [Level: <field>]
+Expression parse error: 'OC4M[3]'
+Data:      [TEXT] OC4M[3] 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(791) : error [Level: <field>]
+Expression parse error: 'OC3M[3]'
+Data:      [TEXT] OC3M[3] 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(22622) : error [Level: <field>]
+Expression parse error: 'OC2M[3]'
+Data:      [TEXT] OC2M[3] 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(22629) : error [Level: <field>]
+Expression parse error: 'OC1M[3]'
+Data:      [TEXT] OC1M[3] 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(23303) : error [Level: <field>]
+Expression parse error: 'OC2M[3]'
+Data:      [TEXT] OC2M[3] 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(23310) : error [Level: <field>]
+Expression parse error: 'OC1M[3]'
+Data:      [TEXT] OC1M[3] 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(23440) : error [Level: <field>]
+Expression parse error: 'OC4M[3]'
+Data:      [TEXT] OC4M[3] 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(23447) : error [Level: <field>]
+Expression parse error: 'OC3M[3]'
+Data:      [TEXT] OC3M[3] 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24285) : error [Level: <field>]
+Expression parse error: 'OC2M[3]'
+Data:      [TEXT] OC2M[3] 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24292) : error [Level: <field>]
+Expression parse error: 'OC1M[3]'
+Data:      [TEXT] OC1M[3] 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24422) : error [Level: <field>]
+Expression parse error: 'OC4M[3]'
+Data:      [TEXT] OC4M[3] 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24429) : error [Level: <field>]
+Expression parse error: 'OC3M[3]'
+Data:      [TEXT] OC3M[3] 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(25259) : error [Level: <field>]
+Expression parse error: 'OC2M[3]'
+Data:      [TEXT] OC2M[3] 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(25266) : error [Level: <field>]
+Expression parse error: 'OC1M[3]'
+Data:      [TEXT] OC1M[3] 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(25396) : error [Level: <field>]
+Expression parse error: 'OC4M[3]'
+Data:      [TEXT] OC4M[3] 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(25403) : error [Level: <field>]
+Expression parse error: 'OC3M[3]'
+Data:      [TEXT] OC3M[3] 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(29750) : error [Level: <field>]
+Expression parse error: 'OC1M[3]'
+Data:      [TEXT] OC1M[3] 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(638) : error
+Field name 'OC2M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC2M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(638) : error
+Field name 'OC2M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC2M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(645) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(645) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(783) : error
+Field name 'OC4M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC4M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(783) : error
+Field name 'OC4M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC4M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(790) : error
+Field name 'OC3M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC3M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(790) : error
+Field name 'OC3M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC3M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(1399) : error
+Field name 'OC2M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC2M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(1399) : error
+Field name 'OC2M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC2M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(1399) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(1399) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(1399) : error
+Field name 'OC4M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC4M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(1399) : error
+Field name 'OC4M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC4M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(1399) : error
+Field name 'OC3M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC3M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(1399) : error
+Field name 'OC3M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC3M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(22621) : error
+Field name 'OC2M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC2M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(22621) : error
+Field name 'OC2M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC2M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(22628) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(22628) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(22829) : error
+Field name 'OC2M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC2M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(22829) : error
+Field name 'OC2M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC2M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(22829) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(22829) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(23302) : error
+Field name 'OC2M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC2M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(23302) : error
+Field name 'OC2M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC2M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(23309) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(23309) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(23439) : error
+Field name 'OC4M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC4M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(23439) : error
+Field name 'OC4M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC4M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(23446) : error
+Field name 'OC3M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC3M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(23446) : error
+Field name 'OC3M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC3M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24284) : error
+Field name 'OC2M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC2M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24284) : error
+Field name 'OC2M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC2M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24291) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24291) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24421) : error
+Field name 'OC4M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC4M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24421) : error
+Field name 'OC4M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC4M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24428) : error
+Field name 'OC3M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC3M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24428) : error
+Field name 'OC3M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC3M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24786) : error
+Field name 'OC2M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC2M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24786) : error
+Field name 'OC2M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC2M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24786) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24786) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24786) : error
+Field name 'OC4M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC4M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24786) : error
+Field name 'OC4M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC4M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24786) : error
+Field name 'OC3M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC3M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(24786) : error
+Field name 'OC3M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC3M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(25258) : error
+Field name 'OC2M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC2M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(25258) : error
+Field name 'OC2M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC2M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(25265) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(25265) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(25395) : error
+Field name 'OC4M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC4M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(25395) : error
+Field name 'OC4M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC4M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(25402) : error
+Field name 'OC3M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC3M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(25402) : error
+Field name 'OC3M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC3M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(29749) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(29749) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(29928) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(29928) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(29938) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(29938) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(29942) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(29942) : error
+Field name 'OC1M[3]' not C compliant: '[' (0x5b) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd : error
+Field name 'OC1M_3]' not C compliant: ']' (0x5d) 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(48682) : info
+Peripheral OTG_FS_PWRCLK has only one Register. 
+ 
+F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.svd(55796) : info
+Peripheral OTG_HS_PWRCLK has only one Register. 
+ 
+Invoking SfrCC2...
+""F:\Keil\v5.16a\UV4\SfrCC2.exe" "F:\Keil\v5.16a\ARM\PACK\Keil\STM32F7xx_DFP\2.9.0\CMSIS\SVD\STM32F7x2_v1r0.sfd""
+
+SfrCC2 PreProcessor V2.9.0.0
+Copyright (C) 2013 - 2015 ARM Ltd and ARM Germany GmbH. All rights reserved.
+
+SfrCC2 PreProcessing Complete.  0 Warning(s),  0 Error(s)
+
+
+Area of improvements:
+ * Description contains 1689 <fields> defined without associated <enumeratedValues>
+
+Found 147 Errors and 0 Warnings
+
+
+Return Code: 2 (ERRORS)
