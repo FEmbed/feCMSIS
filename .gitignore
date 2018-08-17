@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/Device/ST/STM32F0xx/Include/IRQn_summary.csv
+/Device/ST/STM32F0xx/Include/*.txt
