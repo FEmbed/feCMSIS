@@ -6,8 +6,6 @@ files:
       - Include
       vendor:
       - Device/${vendor}/${chip_series}/Include
-      CMSIS_Lib:
-      - Device/fe_assert.c
 portable:
     port:
     - Device/${vendor}/${chip_series}/Source/Templates/system_${chip_series#lower}.c
