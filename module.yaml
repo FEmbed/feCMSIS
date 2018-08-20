@@ -13,15 +13,18 @@ tool_specific:
   gcc_arm:
     portable:
         port:
-        - Device/${vendor}/${chip_series}/Source/Templates/gcc/${start_up}
+            gcc:
+            - Device/${vendor}/${chip_series}/Source/Templates/gcc/${start_up}
   armcc:
     portable:
-        port:
-        - Device/${vendor}/${chip_series}/Source/Templates/arm/${start_up}
+        port:        
+            armcc:
+            - Device/${vendor}/${chip_series}/Source/Templates/arm/${start_up}
   iar:
     portable:
         port:
-        - Device/${vendor}/${chip_series}/Source/Templates/arm/${iar}
+            iar:
+            - Device/${vendor}/${chip_series}/Source/Templates/arm/${iar}
 properties:
     vendor: ST
     chip_series: STM32F4xx
