@@ -120,7 +120,7 @@ LoopForever:
     .section .text.Default_Handler,"ax",%progbits
 Default_Handler:
 Infinite_Loop:
-  bl fe_common_interrupt
+  b fe_common_interrupt
   .size Default_Handler, .-Default_Handler
 /******************************************************************************
 *
